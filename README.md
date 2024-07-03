@@ -1,6 +1,6 @@
 # Poliastro Astrodynamics Documentation Examples
 
-This repository contains Jupyter notebooks of some examples from the official Poliastro documentation, demonstrating various functionalities and applications for astrodynamics. These notebooks are designed to provide comprehensive, hands-on tutorials for users interested in performing orbital mechanics computations with Poliastro.
+This repository contains Jupyter notebooks of some examples from the official Poliastro documentation, demonstrating various functionalities and applications for astrodynamics. These notebooks are designed to provide tutorials for users interested in performing orbital mechanics computations with Poliastro.
 
 ## Contents
 
